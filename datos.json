@@ -1,0 +1,10 @@
+
+[
+    {"id": 13, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/amarilloMarinoyblnco.png" },
+    {"id": 14, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/blnacogrande.png" },
+    {"id": 15, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/franciatotal.png" },
+    {"id": 16, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/fuxiafluor.png" },
+    {"id": 17, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/negrototal.png" },
+    {"id": 18, "nombre": "Gorro Trucker","cantidad": 1,"precio": 240,"img": "./img/rojoentero.png" }
+    
+]
